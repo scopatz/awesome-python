@@ -154,6 +154,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively.
 * [bpython](http://bpython-interpreter.org) – A fancy interface to the Python interpreter.
 * [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
+* [xonsh])(http://xonsh.org/) - Xonsh is a shell whose language is super-set of Python, mixing in Bash-like ideas.
 
 ## Files
 
